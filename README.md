@@ -1,7 +1,5 @@
 # Goal of the analysis
-Linear Regression & Predictive Analysis:
-
-Using single linear regression and multiple linear regression in R to find relationships between variables and predict housing value
+Linear Regression & Predictive Analysis: Using single linear regression and multiple linear regression in R to find relationships between variables and predict housing value
 # Data Source
 This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive (http://lib.stat.cmu.edu/datasets/boston), and has been used throughout the literature to benchmark algorithms.
 
