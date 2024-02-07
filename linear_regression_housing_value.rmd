@@ -9,7 +9,8 @@ housing <- read.delim(file="/Users/Kelly/Desktop/UW/IMT573/pset06/boston.csv.bz2
 # Data cleaning
 missing_housing <- sum(is.na(housing))
 row <- nrow(housing)
-
+```
+```{r}
 # Make a scatterplot that displays how medv is related to rm
 ggplot(data = housing, aes(rm, medv)) +
   geom_point() +
